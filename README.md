@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kbharuka
 - 👀 I’m interested in coding, data structures, C++
-- 🌱 I’m currently learning desigining and architecting.
+- 🌱 I’m currently learning low-level and high level designing.
 - 📫 You can reach me at kaushikbharuka@gmail.com
 
 <!---
